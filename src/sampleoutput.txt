@@ -1,0 +1,1302 @@
+articles: [
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Alex Heath",
+"title": "Interview: Sam Altman on being fired and rehired by OpenAI",
+"description": "In an interview, Altman says he was “hurt” and “angry” when OpenAI’s board moved to oust him as CEO, and that “clearly our governance structure had a problem.”",
+"url": "https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/G63b3sCcu9h66nwG4EUr483dKPw=/0x0:3872x2674/1200x628/filters:focal(1587x965:1588x966)/cdn.vox-cdn.com/uploads/chorus_asset/file/25121586/1778705443.jpg",
+"publishedAt": "2023-11-30T02:42:54Z",
+"content": "Sam Altman.\r\n\n \n\n\n “Clearly our governance structure had a problem,” according to Altman. When OpenAI’s board asked Sam Altman to return a day after they fired him, he initially felt defiant, hurt an… [+8359 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Android Central"
+},
+"author": "michael.hicks@futurenet.com (Michael L Hicks)",
+"title": "Samsung Glasses: Rumors and leaks about Samsung's XR headset",
+"description": "We don't know for certain if Samsung's trademark applies to its mixed-reality headset or something else. But name aside, we already know a ton about it, including Samsung's hardware choice, Google's software plans, and its alleged release month and pricing.",
+"url": "https://www.androidcentral.com/gaming/virtual-reality/samsung-glasses",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/gAb4fXVQqV3jwZ4xTDtn2N-1200-80.jpg",
+"publishedAt": "2023-11-30T03:46:52Z",
+"content": "We've known for some time that Samsung is developing an XR headset. It wants a mixed-reality device to challenge the Apple Vision Pro, even delaying its old XR prototype after seeing Apple's announce… [+13207 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Juli Clover",
+"title": "Apple Announces 2023 App Store Award Winners",
+"description": "Apple today chose its 2023 App Store Award winners, highlighting the best apps and games on the iPhone, iPad, Mac, and more. Apple is recognizing 14 apps and games in total, with the winners picked by the global App Store Editorial team.\n\n\n\n\n\nAccording to App…",
+"url": "https://www.macrumors.com/2023/11/29/2023-app-store-award-winners/",
+"urlToImage": "https://images.macrumors.com/t/IZ-PejMXVtt0U4wEtaBhtsS-Dx4=/1600x/article-new/2022/12/app-store-awards-2022.jpg",
+"publishedAt": "2023-11-30T04:00:00Z",
+"content": "Apple today chose its 2023 App Store Award winners, highlighting the best apps and games on the iPhone, iPad, Mac, and more. Apple is recognizing 14 apps and games in total, with the winners picked b… [+1504 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "BeauHD",
+"title": "Apple Pulls Plug On Goldman Credit-Card Partnership",
+"description": "schwit1 shares a report from the Wall Street Journal: Apple is pulling the plug on its credit-card partnership with Goldman Sachs (source paywalled; alternative source), the final nail in the coffin of the Wall Street bank's bid to expand into consumer lendin…",
+"url": "https://news.slashdot.org/story/23/11/30/0316210/apple-pulls-plug-on-goldman-credit-card-partnership",
+"urlToImage": "https://a.fsdn.com/sd/topics/money_64.png",
+"publishedAt": "2023-11-30T07:00:00Z",
+"content": "Apple is pulling the plug on its credit-card partnership with Goldman Sachs(source paywalled; alternative source), the final nail in the coffin of the Wall Street bank's bid to expand into consumer l… [+918 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Madeline Berg,Grace Kay",
+"title": "On the eve of Tesla's next major release, Elon Musk gave a bizarre, long-winded interview about everything but the Cybertruck",
+"description": "The Tesla CEO's 90-minute interview featured an at-times confrontational Elon Musk, who raged against advertisers who left X.",
+"url": "https://www.businessinsider.com/elon-musk-bizarre-interview-advertisers-x-tesla-cybertruck-contentious-dealbook-2023-11",
+"urlToImage": "https://i.insider.com/6567f9ef58e7c0c29a2824a0?width=1200&format=jpeg",
+"publishedAt": "2023-11-30T03:19:54Z",
+"content": "Elon Musk sat down for a long-winded rollercoaster of an interview on Wednesday, during which he barely mentioned Tesla's Cybertruck.Michael M. Santiago/Getty Images\r\n<ul><li>Elon Musk didn't have mu… [+4766 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "VentureBeat"
+},
+"author": "Dean Takahashi",
+"title": "Apple highlights best games and apps for App Store Awards for 2023",
+"description": "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Apple announced the winners of its App Store Awards for 2023, honoring the best games and apps of the y…",
+"url": "https://venturebeat.com/games/apple-highlights-best-games-and-apps-for-app-store-awards-for-2023/",
+"urlToImage": "https://venturebeat.com/wp-content/uploads/2023/11/lies-of-p-Apple-Store-Awards-2023-Mac-Game-of-the-Year-Lies-of-P-01.jpg?w=1200&strip=all",
+"publishedAt": "2023-11-30T04:00:00Z",
+"content": "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more.\r\nApple announced the winners of its App Sto… [+1227 chars]"
+},
+{
+"source": {
+"id": "time",
+"name": "Time"
+},
+"author": "Aisha Counts and Dana Hull / Bloomberg",
+"title": "Elon Musk Tells Advertisers Boycotting X to ‘Go F-ck Yourself’",
+"description": "Musk urged people to judge him by his actions rather than his words.",
+"url": "https://time.com/6340905/elon-musk-advertiser-boycott-x/",
+"urlToImage": "https://api.time.com/wp-content/uploads/2023/11/elon-musk-2.jpg?quality=85",
+"publishedAt": "2023-11-30T01:51:19Z",
+"content": "Elon Musk, the billionaire owner of X, says the advertisers that have stopped spending on the platform due to his endorsement of an antisemitic post can f themselves.\r\nWhat its going to do is its goi… [+4379 chars]"
+},
+{
+"source": {
+"id": "time",
+"name": "Time"
+},
+"author": "Tessa Berenson",
+"title": "These Are the Biggest Moments From TIME’s Latino Leaders Dinner",
+"description": "TIME's Latino leaders dinner featured toasts from Elizabeth Acevedo, Eva Longoria, Miguel Cardona, and more, and a performance by Frank Ray.",
+"url": "https://time.com/6338500/latino-leaders-dinner-biggest-moments/",
+"urlToImage": "https://api.time.com/wp-content/uploads/2023/11/1821544051.jpg?quality=85",
+"publishedAt": "2023-11-30T05:30:09Z",
+"content": "On Nov. 29 in Los Angeles, TIME hosted a dinner honoring its inaugural list of Latinos making an impact on the country.\r\nHeld at Soulmate in West Hollywood, the event convened honorees including acto… [+5913 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Manu García (Visnuh)",
+"title": "Smartphones top a precios irresistibles: las mejores ofertas en AliExpress aún disponibles tras el Black Friday",
+"description": "¿Sigues sin encontrar smartphone tras el Black Friday? Si no has llegado a tiempo a las ofertas o las que has visto no te han encajado, puede que los superventas de AliExpress sean lo que necesitas. Allí sigues teniendo modelos top con precios estupendos y he…",
+"url": "https://www.xataka.com/seleccion/smartphones-top-a-precios-irresistibles-mejores-ofertas-aliexpress-disponibles-black-friday",
+"urlToImage": "https://i.blogs.es/4d7f82/smartphones_alexpress/840_560.jpeg",
+"publishedAt": "2023-11-30T11:31:18Z",
+"content": "¿Sigues sin encontrar smartphone tras el Black Friday? Si no has llegado a tiempo a las ofertas o las que has visto no te han encajado, puede que los superventas de AliExpress sean lo que necesitas. … [+4766 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Ricardo Aguilar",
+"title": "Activision quería su propia tienda de juegos para Android. Se frenó a golpe de talonario, según Epic Games",
+"description": "La documentación del juicio entre Epic Games contra Google sigue arrojando valiosa información sobre los movimientos de algunos de los principales gigantes del mundo del videojuego. En concreto, como recoge Verge, los últimos documentos internos desvelan que …",
+"url": "https://www.xataka.com/legislacion-y-derechos/activision-queria-su-propia-tienda-juegos-para-android-se-freno-a-golpe-talonario-epic-games",
+"urlToImage": "https://i.blogs.es/27a8a8/1366_2000-1-/840_560.jpeg",
+"publishedAt": "2023-11-30T09:39:50Z",
+"content": "La documentación del juicio entre Epic Games contra Google sigue arrojando valiosa información sobre los movimientos de algunos de los principales gigantes del mundo del videojuego. En concreto, como… [+1800 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Javier Pastor",
+"title": "Elon Musk tiene un mensaje para los anunciantes: \"Que os j***n\"",
+"description": "En las últimas semanas Elon Musk ha visto como varios anunciantes importantes —Apple, IBM, Oracle o Disney entre ellos— detenían sus campañas en X tras los comentarios antisemitas que publicó en esta red social. En una reciente participación del magnate en un…",
+"url": "https://www.xataka.com/empresas-y-economia/elon-musk-tiene-mensaje-para-anunciantes-que-os-j-n",
+"urlToImage": "https://i.blogs.es/cfe4aa/elon-3/840_560.jpeg",
+"publishedAt": "2023-11-30T07:45:47Z",
+"content": "En las últimas semanas Elon Musk ha visto como varios anunciantes importantes Apple, IBM, Oracle o Disney entre ellos detenían sus campañas en X tras los comentarios antisemitas que publicó en esta r… [+3109 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The New Yorker"
+},
+"author": "Adam Gopnik",
+"title": "The French Are Not Happy About “Napoleon”",
+"description": "Adam Gopnik writes about how Ridley Scott’s 2023 film, “Napoleon,” has provoked a surreal cultural dislocation and unintended comedy among French audiences.",
+"url": "https://www.newyorker.com/culture/cultural-comment/the-french-are-not-happy-about-napoleon",
+"urlToImage": "https://media.newyorker.com/photos/65676b64d25efd60fad1a8e3/16:9/w_1280,c_limit/Gopnik-Napoleon.jpg",
+"publishedAt": "2023-11-30T00:43:43Z",
+"content": "Joaquin Phoenix in Ridley Scotts Napoleon.Photograph courtesy Apple TV+\r\nAmericans are so used to seeing history played by Americans that the oddity of it hardly registers anymore. Charlton Heston wa… [+4176 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Atlantic"
+},
+"author": "Daniel Engber",
+"title": "The Cockroach Cure",
+"description": "Forty years ago, scientists did the impossible. Why doesn’t anyone remember?",
+"url": "https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/?utm_source=feed",
+"urlToImage": null,
+"publishedAt": "2023-11-30T11:00:00Z",
+"content": "A week before Christmas in 1983, two chemists at Yale University made a breakthrough that they thought could change the world. “It was like opening up a door and seeing a light,” one of the scientist… [+28492 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Atlantic"
+},
+"author": "Jacob Stern",
+"title": "The Vanishing of Ammon Bundy",
+"description": "A legendary anti-government extremist seemed on the verge of another standoff with the law. Then he disappeared.",
+"url": "https://www.theatlantic.com/politics/archive/2023/11/ammon-bundy-disappearance-peoples-rights-network/675939/?utm_source=feed",
+"urlToImage": null,
+"publishedAt": "2023-11-30T11:30:00Z",
+"content": "Photographs by Cole BarashTwo weeks before chaos hit St. Luke’s hospital in Boise, Idaho—before Ammon Bundy showed up with an armed mob and the hospital doors had to be sealed and death threats crash… [+37185 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Leo Becker",
+"title": "heise+ | Vision Pro in der Spar-Edition: Meta Quest 3 im Mixed-Reality-Einsatz",
+"description": "Räumliches Computing geht schon jetzt, zu einem Bruchteil des Vision-Pro-Preises. Was die Quest 3 taugt und was sich damit über Apples Headset lernen lässt.",
+"url": "https://www.heise.de/tests/Vision-Pro-in-der-Spar-Edition-Meta-Quest-3-im-Mixed-Reality-Einsatz-9543775.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/6/2/9/9/mixedreality-66ec7eeb0cd9b679.png",
+"publishedAt": "2023-11-30T12:30:00Z",
+"content": "Inhaltsverzeichnis\r\nMeta-Chef Mark Zuckerberg gab sich nach der Enthüllung der Vision Pro erleichtert: Apple habe \"keinerlei magische Lösungen\" gezeigt und könne die Gesetze der Physik auch nicht aus… [+2298 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Frank Schräer",
+"title": "Donnerstag: GM kürzt Cruise-Budget, Amazon bietet Modell für KI-Bildgeneratoren",
+"description": "Kürzung für Robo-Taxis + KI-Bildgenerator von AWS + Linksteuer Kanadas reduziert + Datenschützer gegen KI-Selbstregulierung + App Store Awards '23 + #heiseshow",
+"url": "https://www.heise.de/news/Donnerstag-GM-kuerzt-Cruise-Budget-Amazon-bietet-Modell-fuer-KI-Bildgeneratoren-9544067.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/6/4/5/3/thursday-174817b18b9e6f44.webp",
+"publishedAt": "2023-11-30T05:30:00Z",
+"content": "General Motors steigt bei Cruise auf die Bremse. Die Investition in selbstfahrende Autos wird 2024 um hunderte Millionen Dollar gestutzt, nachdem der Anbieter autonomer Taxis zuletzt nach einigen Vor… [+4722 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Kristina Beer",
+"title": "Musk gegen abtrünnige Werbekunden: Sie bringen X um!",
+"description": "Elon Musk schießt weiter gegen Werbekunden, die seine Plattform X (Twitter) verlassen. Sie würden damit X umbringen – und die Öffentlichkeit das wissen.",
+"url": "https://www.heise.de/news/Musk-gegen-abtruennige-Werbekunden-Sie-bringen-X-um-9544077.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/6/4/5/8/shutterstock_2336632693-6437384fbe7d58ae.jpg",
+"publishedAt": "2023-11-30T06:59:00Z",
+"content": "Elon Musk hat in einem öffentlichen Auftritt erklärt, dass die Flucht großer Werbekunden sein Netzwerk X (vormals Twitter) umbringen werde. Er warf ihnen auch vor, ihn mit ihrer Abkehr erpressen zu w… [+2306 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Filipe Espósito",
+"title": "Job opening hints at Brazilian fintech replacing Goldman Sachs as Apple Card issuer",
+"description": "A recent report from The Wall Street Journal revealed that Apple and Goldman Sachs are ending the partnership they made in 2019 to introduce the Apple Card. Although the news didn’t come as a surprise, it’s still unclear what will happen to the Apple Card – b…",
+"url": "https://9to5mac.com/2023/11/29/job-opening-fintech-goldman-sachs-apple-card/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Apple-Card-global-rollout.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-11-30T01:10:03Z",
+"content": "A recent report from The Wall Street Journal revealed that Apple and Goldman Sachs are ending the partnership they made in 2019 to introduce the Apple Card. Although the news didn’t come as a surpris… [+2037 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Ben Lovejoy",
+"title": "OpenAI mess resolved: Microsoft joins board, Ilya Sutskever will remain, lawyer writes Sam Altman tweet",
+"description": "The OpenAI mess appears now to have been essentially resolved, with CEO Sam Altman’s return to the company now finalized.\n\n\n\nMicrosoft is also joining the independent OpenAI board, though as “a non-voting observer,” and Quora CEO Adam D’Angelo will retain his…",
+"url": "https://9to5mac.com/2023/11/30/openai-mess-resolved/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/OpenAI-mess-resolved.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-11-30T12:35:25Z",
+"content": "The OpenAI mess appears now to have been essentially resolved, with CEO Sam Altman’s return to the company now finalized.\r\nMicrosoft is also joining the independent OpenAI board, though as “a non-vot… [+4103 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Android Police"
+},
+"author": "Nathan A. Drescher",
+"title": "The major stores that support Apple Pay in the US",
+"description": "Learn what primary retailers support Apple Pay in the United States by reading this guide.",
+"url": "https://www.androidpolice.com/major-us-retailers-accept-apple-pay/",
+"urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/11/apple-card-payment.jpg",
+"publishedAt": "2023-11-30T11:00:18Z",
+"content": "Apple Pay is everywhere. Restaurants, stores, and gas stations have the Apple logo next to their payment terminals, inviting iPhone users to tap their devices and be on with their day. Google Pay is … [+7320 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Android Police"
+},
+"author": "Chris Wedel",
+"title": "Seriously!? Samsung is still basically giving away its best Android smartwatch",
+"description": "Between discounts and trade-in offers, you could get a Samsung Galaxy Watch 6 for free - but not for long",
+"url": "https://www.androidpolice.com/samsung-galaxy-watch-6-trade-in-free/",
+"urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-watch-6-review-2-1.jpg",
+"publishedAt": "2023-11-30T11:51:42Z",
+"content": "Samsung Galaxy Watch 6 \r\nSave up to $250 with enhanced trade-in\r\nSamsung packed the Galaxy Watch 6 with nearly every option possible for a smartwatch. This is an impressive wearable, from the in-dept… [+5347 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Zac Palmer",
+"title": "Mercedes-Benz’s Dolby Atmos audio wins the 2023 Autoblog Technology of the Year award",
+"description": "Filed under:\n Video,Green,BMW,Ford,Honda,Mercedes-Benz,Technology,Infotainment,Technology of the Year,Truck,Convertible,Coupe,Crossover,SUV,Electric,Luxury,Performance,Sedan\n Continue reading Mercedes-Benz’s Dolby Atmos audio wins the 2023 Autoblog Technology…",
+"url": "https://www.autoblog.com/2023/11/30/2023-technology-of-the-year-award-winner/",
+"urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/11/29095832/IMG_04773.jpg",
+"publishedAt": "2023-11-30T11:00:00Z",
+"content": "The same thought kept cropping up throughout the day of testing for the 2023 Autoblog Technology of the Year award: Mercedes audio system is something else. Mind you, it takes a lot to impress a room… [+16211 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (William Gallagher)",
+"title": "Boy petitions Apple to change 'nerd face' emoji",
+"description": "A UK schoolboy is asking Apple to fix and rename what he says is its offensive and insulting \"nerd face\" emoji, and has created a petition about it.Petitioner Teddy with the \"Apple\" icon he so dislikes (source: BBC)Perhaps a 10-year-old schoolboy couldn't be …",
+"url": "https://appleinsider.com/articles/23/11/30/boy-petitions-apple-to-change-nerd-face-emoji",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57507-117139-000-lead-Emoji-petitioner-xl.jpg",
+"publishedAt": "2023-11-30T11:27:31Z",
+"content": "Petitioner Teddy with the \"Apple\" icon he so dislikes (source: BBC)\r\nA UK schoolboy is asking Apple to fix and rename what he says is its offensive and insulting \"nerd face\" emoji, and has created a … [+1879 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Wesley Hilliard)",
+"title": "Apple reveals 2023 App Store Award winners, highlights AI as the year's biggest trend",
+"description": "App Store Award winners include AllTrails, Photomator, and \"Hello Kitty Island Adventure,\" plus, Apple says generative AI is 2023's biggest trend amongst innovative apps.App Store AwardsApple says this year's winners showcase the scope of creativity, technica…",
+"url": "https://appleinsider.com/articles/23/11/30/apple-reveals-2023-app-store-award-winners-highlights-ai-as-the-years-biggest-trend",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57491-117111-IMG_4266-xl.jpg",
+"publishedAt": "2023-11-30T03:59:59Z",
+"content": "App Store Awards\r\nApp Store Award winners include AllTrails, Photomator, and \"Hello Kitty Island Adventure,\" plus, Apple says generative AI is 2023's biggest trend amongst innovative apps.\r\nApple say… [+2444 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Michael Stroup)",
+"title": "OWC miniStack STX is 10% off with purchase of refurbished Apple product",
+"description": "OWC's miniStack STX is a Mac's best friend thanks to its Thunderbolt 4 and SSD expansion capabilities that supercharge your setup, and now you can take 10% off with our exclusive coupon code when you buy a refurbished Apple product.Take 10% off the miniStack …",
+"url": "https://appleinsider.com/articles/23/11/30/owc-ministack-stx-is-10-off-with-purchase-of-refurbished-apple-product",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57492-117104-1-xl.jpg",
+"publishedAt": "2023-11-30T04:07:37Z",
+"content": "Take 10% off the miniStack STX.\r\nOWC's miniStack STX is a Mac's best friend thanks to its Thunderbolt 4 and SSD expansion capabilities that supercharge your setup, and now you can take 10% off with o… [+2084 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Wesley Hilliard)",
+"title": "Foxconn's expansion into India isn't going as well as hoped",
+"description": "Apple supplier Foxconn is struggling to get its factories in India to operate efficiently, with employees citing language barriers, culture clashes, and difficulty adapting to strenuous schedules.FoxconnFoxconn began production of iPhone in India starting in …",
+"url": "https://appleinsider.com/articles/23/11/30/foxconns-expansion-into-india-isnt-going-as-well-as-hoped",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57506-117131-IMG_4285-xl.jpg",
+"publishedAt": "2023-11-30T03:48:18Z",
+"content": "Foxconn\r\nApple supplier Foxconn is struggling to get its factories in India to operate efficiently, with employees citing language barriers, culture clashes, and difficulty adapting to strenuous sche… [+3297 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Alex Baggott)",
+"title": "How to use AirPods to authenticate Siri commands without unlocking your iPhone",
+"description": "A new AirPods accessibility feature for iPhone has created a secure way to use advanced Siri commands without unlocking your iPhone. Here's how to use it.iPhone is locked. [Photo by Jess Bailey Designs.]\" height=\"630\" >Siri now remembers that it's you speakin…",
+"url": "https://appleinsider.com/inside/ios-17/tips/how-to-use-airpods-to-authenticate-siri-commands-without-unlocking-your-iphone",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57316-116659-Main-Image-xl.jpg",
+"publishedAt": "2023-11-30T12:37:16Z",
+"content": "Siri now remembers that it's you speaking when iPhone is locked. [Photo by Jess Bailey Designs.]\r\nA new AirPods accessibility feature for iPhone has created a secure way to use advanced Siri commands… [+2133 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Wesley Hilliard)",
+"title": "Steam ending support for Macs running macOS Mojave and earlier",
+"description": "Steam has kept support for macOS Mojave and macOS High Sierra alive so far to keep 32-bit games running on older Macs, but that support is ending on February 15.SteamSteam is a multi-platform game storefront and distributor available on Mac and PC. It hosts t…",
+"url": "https://appleinsider.com/articles/23/11/30/steam-ending-support-for-macs-running-macos-mojave-and-earlier",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57504-117128-IMG_4281-xl.jpg",
+"publishedAt": "2023-11-30T01:38:02Z",
+"content": "Steam\r\nSteam has kept support for macOS Mojave and macOS High Sierra alive so far to keep 32-bit games running on older Macs, but that support is ending on February 15.\r\nSteam is a multi-platform gam… [+1609 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "和田ラヂヲ",
+"title": "【和田ラヂヲ】Apple Vison Proの次は？［ジャンピン ジャック ガジェット ep.37］",
+"description": "Image:radiowada続きます。和田ラヂヲの火の鳥(TCコミックス)1,045円Source:和田ラヂヲ",
+"url": "https://www.gizmodo.jp/2023/11/jumping-jacks-gadget-37.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/11/30/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC1.jpg?w=1280&h=630&f=jpg",
+"publishedAt": "2023-11-30T11:30:00Z",
+"content": "Copyright © mediagene Inc. All Rights Reserved."
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "編集部",
+"title": "9インチの大画面。パイオニア カロッツェリアの先進技術で車内がエンタメ空間になった",
+"description": "image:ギズモード・ジャパンドライブに行かざるを得ない。最近、カーナビに見えてカーナビではないディスプレイ端末がついている車を見かけたことありませんか？あの端末はディスプレイオーディオといって、音楽やビデオの再生、ナビゲーションなどの多様な機能を、スマホと連携することで提供してくれる車載用のマルチメディアプレーヤーなんです。今回ギズモード編集部が体験したのは、パイオニアカロッツェリアのディスプ",
+"url": "https://www.gizmodo.jp/2023/11/pioneer-dmh-sf700.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/11/21/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882023-11-218.05.41.png?w=1280&h=630&f=jpg",
+"publishedAt": "2023-11-30T10:00:00Z",
+"content": "DMH-SF700COCCHi\r\nDMH-SF7009\r\nApple CarPlayAndroid Auto\r\nFLAC/WAV96kHz/24bitBluetoothLDAC\r\nCOCCHi350\r\nCOCCHi\r\nApp StoreGoogle Play\r\nSource:"
+},
+{
+"source": {
+"id": null,
+"name": "Yanko Design"
+},
+"author": "JC Torres",
+"title": "Samsung Glasses Mixed Reality Headset: What We Know So Far",
+"description": "Samsung Glasses Mixed Reality Headset: What We Know So FarAlthough it was a bit late to the game, it was unsurprising that the Apple Vision Pro mixed reality headset blew people’s minds the moment...",
+"url": "https://www.yankodesign.com/2023/11/30/samsung-glasses-mixed-reality-headset-what-we-know-so-far/",
+"urlToImage": "https://www.yankodesign.com/images/design_news/2023/11/samsung-glasses-mixed-reality-headset-what-we-know-so-far/samsung-xr-headsets-1.jpg",
+"publishedAt": "2023-11-30T12:40:14Z",
+"content": "Although it was a bit late to the game, it was unsurprising that the Apple Vision Pro mixed reality headset blew people’s minds the moment Apple officially revealed its existence and features. It has… [+3847 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Journal du geek"
+},
+"author": "Thomas Estimbre",
+"title": "MacBook Air M2 : peut-on augmenter les performances avec un système de refroidissement ?",
+"description": "Les MacBook Air M2 d'Apple n'ont pas de ventilateur et utilisent un dissipateur thermique pour évacuer la chaleur. Voici ce qui se passe lorsque l'on ajoute un système de refroidissement actif au sein du châssis.\nMacBook Air M2 : peut-on augmenter les perform…",
+"url": "https://www.journaldugeek.com/2023/11/30/macbook-air-m2-peut-on-augmenter-les-performances-avec-un-systeme-de-refroidissement/",
+"urlToImage": "https://www.journaldugeek.com/app/uploads/2023/11/apple-macbook-air-m2-logo.jpg",
+"publishedAt": "2023-11-30T07:00:49Z",
+"content": "Les MacBook Air sont des ultraportables misant sur un design fin. Pour conserver cette finesse, Apple propose des machines fanless, c’est-à-dire dépourvues de ventilation active. Ce choix rend l’ultr… [+3431 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Miguel López",
+"title": "Seis dispositivos que se recomienda desconectar incluso estando apagados. Tres de ellos son de Apple",
+"description": "El frío ya ha llegado, y para algunas personas eso significa un temor justificado a la factura de la luz. Depende de cada casa, pero en algunos casos se llegan a unos totales que pueden poner en jaque las finanzas de un hogar. Es por eso que todo truco para a…",
+"url": "https://www.applesfera.com/trucos/seis-dispositivos-que-se-recomienda-desconectar-incluso-estando-apagados-tres-ellos-apple",
+"urlToImage": "https://i.blogs.es/dc6d65/captura-de-pantalla-2023-11-30-a-las-12.23.40/840_560.jpeg",
+"publishedAt": "2023-11-30T12:01:19Z",
+"content": "El frío ya ha llegado, y para algunas personas eso significa un temor justificado a la factura de la luz. Depende de cada casa, pero en algunos casos se llegan a unos totales que pueden poner en jaqu… [+2908 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Pedro Aznar",
+"title": "Estas son las mejores apps y juegos en España del 2023: los ganadores de los \"App Store Awards\" ya son oficiales",
+"description": "Ya es tradicional, a final de noviembre, conocer cuales son las 14 aplicaciones y juegos premiados este 2023 en la App Store. La elección se basó en criterios como innovación técnica excepcional, experiencia de usuario destacada y diseño de alta calidad. Prov…",
+"url": "https://www.applesfera.com/apple-1/estas-mejores-apps-juegos-espana-2023-ganadores-app-store-awards-oficiales",
+"urlToImage": "https://i.blogs.es/1765e4/mejores-apps-del-2023-app-store-awards-001/840_560.jpeg",
+"publishedAt": "2023-11-30T07:01:19Z",
+"content": "Ya es tradicional, a final de noviembre, conocer cuales son las 14 aplicaciones y juegos premiados este 2023 en la App Store. La elección se basó en criterios como innovación técnica excepcional, exp… [+5051 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Miguel López",
+"title": "Elon Musk responde a Apple \"que les jodan\" y termina de quemar el mejor acuerdo comercial de todo X (Twitter)",
+"description": "En el fondo, uno puede llegar a entender a Elon Musk. Cuando te salen las cosas mal, cuando ves que metes la pata una vez tras otra, puedes tener un ataque de ira o un momento de descontrol. Shit happens, como dicen los anglosajones. El problema viene cuando …",
+"url": "https://www.applesfera.com/aplicaciones-ios-1/elon-musk-responde-a-apple-que-les-jodan-termina-quemar-mejor-acuerdo-comercial-todo-x-twitter",
+"urlToImage": "https://i.blogs.es/40f413/elon-musk-tim-cook/840_560.jpeg",
+"publishedAt": "2023-11-30T10:01:19Z",
+"content": "En el fondo, uno puede llegar a entender a Elon Musk. Cuando te salen las cosas mal, cuando ves que metes la pata una vez tras otra, puedes tener un ataque de ira o un momento de descontrol. Shit hap… [+2751 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Phandroid - News for Android"
+},
+"author": "Tyler Lee",
+"title": "It looks like Apple will have to continue relying on Qualcomm for a while",
+"description": "Apple is reported to be giving up on their plans to make their own 5G modem, meaning that they’ll have to continue relying on Qualcomm for the foreseeable future.\nThe post It looks like Apple will have to continue relying on Qualcomm for a while appeared firs…",
+"url": "https://phandroid.com/2023/11/30/it-looks-like-apple-will-have-to-continue-relying-on-qualcomm-for-a-while/",
+"urlToImage": "https://phandroid.com/wp-content/uploads/2022/10/mkeke-iphone-case-4.jpg",
+"publishedAt": "2023-11-30T10:24:38Z",
+"content": "As it stands, many companies rely heavily on Qualcomm for a lot of their components for their smartphones and tablets. The most obvious would be the chipset that powers our phones, then there is also… [+1468 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Phandroid - News for Android"
+},
+"author": "Tyler Lee",
+"title": "Samsung might have confirmed that they are working on a new chipset",
+"description": "Samsung has denied rumors that they will be rebranding its Exynos chipsets, but in the process might have revealed something else in the works.\nThe post Samsung might have confirmed that they are working on a new chipset appeared first on Phandroid.",
+"url": "https://phandroid.com/2023/11/30/samsung-might-have-confirmed-that-they-are-working-on-a-new-chipset/",
+"urlToImage": "https://phandroid.com/wp-content/uploads/2023/02/exynos-1380.png",
+"publishedAt": "2023-11-30T09:22:57Z",
+"content": "Samsungs Exynos chipsets have been getting a bad rep over the years to the point where this years Galaxy S23 ditched the Exynos chipsets entirely and went with Qualcomm. That will change next year wh… [+1322 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Presse-citron"
+},
+"author": "Stéphane Ficca",
+"title": "After Foot, Hondelatte Raconte, Les Grosses Têtes… Quels sont les podcasts les plus populaires en 2023 chez Apple ?",
+"description": "C'est la tradition en fin d'année, et désormais une pièce maitresse de la stratégie chez Apple, le géant américain révèle aujourd'hui les podcasts les plus populaires de 2023 en France.",
+"url": "https://www.presse-citron.net/after-foot-hondelatte-raconte-les-grosses-tetes-quels-sont-les-podcasts-les-plus-populaires-en-2023-chez-apple/",
+"urlToImage": "https://www.presse-citron.net/app/uploads/2023/11/apple-podcasts-3.jpg",
+"publishedAt": "2023-11-30T12:00:40Z",
+"content": "C’est (bientôt) la fin de l’année 2023, et si Spotify a d’ores et déjà mis en ligne son traditionnel récap’ Wrapped, voilà que le géant Apple fait lui aussi le bilan de cette année (déjà !) écoulée. … [+2198 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Presse-citron"
+},
+"author": "Manon Carpentier",
+"title": "Pourquoi vos abonnements à Spotify, Deezer et consorts risquent encore d’augmenter",
+"description": "La mise en place d’une taxation des plateformes de streaming musical viendrait surtout peser sur le budget des utilisateurs.",
+"url": "https://www.presse-citron.net/pourquoi-vos-abonnements-a-spotify-deezer-et-consorts-risquent-encore-daugmenter/",
+"urlToImage": "https://www.presse-citron.net/app/uploads/2023/09/spotify.jpg",
+"publishedAt": "2023-11-30T10:00:40Z",
+"content": "Avec la taxe Netflix en 2013 puis la taxe YouTube en 2016 pour les plateformes de contenu audiovisuel, cela pourrait être au tour des plateformes de streaming musical de devoir se plier à une taxatio… [+2917 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The A.V. Club"
+},
+"author": "William Hughes",
+"title": "Elon Musk calls out Disney's Bob Iger while cursing out Twitter advertisers",
+"description": "Elon Musk continues to have a very normal one tonight for roughly the thousandth night running, conducting a sit-down interview at The New York Times’ DealBook Summit earlier this evening in which he loudly, if nervously, declared “Fuck advertisers!” As noted…",
+"url": "https://www.avclub.com/elon-musk-calls-out-disneys-bob-iger-while-cursing-out-1851060177",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/02a237ed636005b39b0a2ac203104b09.jpg",
+"publishedAt": "2023-11-30T01:44:00Z",
+"content": "Elon Musk continues to have a very normal one tonight for roughly the thousandth night running, conducting a sit-down interview at The New York Times DealBook Summit earlier this evening in which he … [+2112 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Golem.de"
+},
+"author": "Tobias Költzsch",
+"title": "Chip-Architektur: Apple zahlt am wenigsten für ARM-Lizenzen",
+"description": "Apple soll unter allen ARM-Kunden am wenigsten Lizenzgebühren zahlen - ungefähr die Hälfte dessen, was Qualcomm und Mediatek berappen müssen. (ARM, Apple)",
+"url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fchip-architektur-apple-zahlt-am-wenigsten-fuer-arm-lizenzen-2311-179892.html&referer=https%3A%2F%2Ft.co%2F7dbdc5eed3",
+"urlToImage": null,
+"publishedAt": "2023-11-30T09:10:01Z",
+"content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Golem.de"
+},
+"author": "Andreas Donath",
+"title": "Nerdgesicht: Schüler startet Petition gegen Apple-Emoji mit Brille",
+"description": "Ein Zehnjähriger hat eine Petition gestartet, in der er Apple auffordert, das Nerd-Face-Emoji neu zu gestalten, da er es als beleidigend für Brillenträger empfindet. (Apple, Betriebssysteme)",
+"url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnerdgesicht-schueler-startet-petition-gegen-apple-emoji-mit-brille-2311-179884.html&referer=https%3A%2F%2Ft.co%2Fad5116474d",
+"urlToImage": null,
+"publishedAt": "2023-11-30T06:57:02Z",
+"content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Presse-citron"
+},
+"author": "RPB",
+"title": "App Store Awards : découvrez la liste 2023 des 37 meilleures apps iPhone et Mac",
+"description": "Apple vient de dévoiler la liste des App Store Awards, autrement dit les applications iPhone, iPad, Mac, Apple TV ou encore Apple Watch primées en 2023.",
+"url": "https://www.presse-citron.net/app-store-awards-decouvrez-la-liste-2023-des-37-meilleures-apps-iphone-et-mac/",
+"urlToImage": "https://www.presse-citron.net/app/uploads/2023/11/app-store-awards-2023.jpg",
+"publishedAt": "2023-11-30T13:00:19Z",
+"content": "Comme chaque année, Apple publie la liste des finalistes de son prix App Store Awards. Le but est de récompenser les développeurs d’applications de qualité, tout en aiguillant les clients Apple vers … [+7931 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Presse-citron"
+},
+"author": "Jean-Yves Alric",
+"title": "Elon Musk pète complètement les plombs et insulte Disney",
+"description": "Le milliardaire s’est fortement emporté contre les entreprises qui boycottent X (Twitter).",
+"url": "https://www.presse-citron.net/elon-musk-pete-completement-les-plombs-et-insulte-disney/",
+"urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Elon-Musk-Twitter-rachat-2022.jpg",
+"publishedAt": "2023-11-30T08:30:08Z",
+"content": "Il en a gros. Souvenez-vous, depuis une déclaration dElon Musk, que de nombreux observateurs ont qualifié de soutien à une théorie antisémite sur X, la plateforme est boycottée par de très gros annon… [+2365 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The A.V. Club"
+},
+"author": "Richard Newby",
+"title": "Every Godzilla film, ranked from worst to best",
+"description": "Across four eras—Showa, Heisei, Millenium, and Reiwa—Godzilla has helped chart the course of both a country and a culture, speaking to the fears, hopes, and most fantastical dreams of the Japanese people. Toho’s Godzilla films have captivated the world for ne…",
+"url": "https://www.avclub.com/all-godzilla-movies-ranked-1851041627",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/22c57767abcb3f1c7b5448ebc899016d.jpg",
+"publishedAt": "2023-11-30T13:00:00Z",
+"content": "Across four erasShowa, Heisei, Millenium, and ReiwaGodzilla has helped chart the course of both a country and a culture, speaking to the fears, hopes, and most fantastical dreams of the Japanese peop… [+818 chars]"
+},
+{
+"source": {
+"id": "die-zeit",
+"name": "Die Zeit"
+},
+"author": "ZEIT ONLINE: News -",
+"title": "Spotify-Star: Taylor Swift dankt Fans mit Song für Chartplatzierung",
+"description": "Hier finden Sie Informationen zu dem Thema „Spotify-Star“. Lesen Sie jetzt „Taylor Swift dankt Fans mit Song für Chartplatzierung“.",
+"url": "https://www.zeit.de/news/2023-11/30/taylor-swift-dankt-fans-mit-song-fuer-chartplatzierung",
+"urlToImage": "https://img.zeit.de/news/2023-11/30/taylor-swift-dankt-fans-mit-song-fuer-chartplatzierung-image-group/wide__1300x731",
+"publishedAt": "2023-11-30T09:27:31Z",
+"content": "Popstar Taylor Swift hat sich mit der Veröffentlichung eines Songs bei ihren Streaming-Fans für ihren Welterfolg bedankt. Die Sängerin war von den Streaming-Plattformen Spotify und Apple Music zur «K… [+1551 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BGR"
+},
+"author": "Joshua Hawkins",
+"title": "The Pixel Buds Pro have made it hard to go back to my AirPods Pro",
+"description": "Over the past several years, I’ve become a bit of an Apple fanboy. That is to say, I dove headfirst into the Apple ecosystem, locking …\nThe post The Pixel Buds Pro have made it hard to go back to my AirPods Pro appeared first on BGR.",
+"url": "https://bgr.com/tech/the-pixel-buds-pro-have-made-it-hard-to-go-back-to-my-airpods-pro/",
+"urlToImage": "https://bgr.com/wp-content/uploads/2023/10/pixel-8-pixel-watch-2-pixel-buds-pro.webp",
+"publishedAt": "2023-11-30T02:42:00Z",
+"content": "Over the past several years, I’ve become a bit of an Apple fanboy. That is to say, I dove headfirst into the Apple ecosystem, locking myself into the whole iPhone, Apple Watch, and AirPods cycle. Des… [+3986 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BGR"
+},
+"author": "Joshua Hawkins",
+"title": "These 5 iPhone hacks will make using your phone even easier",
+"description": "There are a lot of tips and hacks that can make using your iPhone even easier. In fact, Apple continues to add tons of little …\nThe post These 5 iPhone hacks will make using your phone even easier appeared first on BGR.",
+"url": "https://bgr.com/tech/these-5-iphone-hacks-will-make-using-your-phone-even-easier/",
+"urlToImage": "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-1.jpg?quality=82&strip=all",
+"publishedAt": "2023-11-30T00:56:00Z",
+"content": "There are a lot of tips and hacks that can make using your iPhone even easier. In fact, Apple continues to add tons of little secret hacks that a lot of people just aren’t aware of. While we’ve shown… [+3235 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "Stephen Warwick",
+"title": "Apple Card Goldman Sachs partnership again said to be winding down, and Apple may have already found a replacement",
+"description": "Another report says Apple and Goldman Sachs are trying to end their Apple Card partnership, but Cupertino might already have a replacement in mind.",
+"url": "https://www.imore.com/apple/apple-card-goldman-sachs-partnership-again-said-to-be-winding-down-and-apple-may-have-already-found-a-replacement",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/NV8gCi6avt8XNsX2sqZNmP-1200-80.png",
+"publishedAt": "2023-11-30T10:07:25Z",
+"content": "Yet another report has revealed that Apple is planning to sever ties with its Apple Card provider Goldman Sachs, and it seems the company may already have a replacement lined up.\r\nThe news\r\nBloomberg… [+3531 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "Stephen Warwick",
+"title": "Apple reveals the best apps for iPhone and beyond in 2023",
+"description": "Apple has revealed the winners of its prestigious App Store Awards for 2023.",
+"url": "https://www.imore.com/apple/apple-reveals-the-best-apps-for-iphone-and-beyond-in-2023",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/8LR6XAc524PVDC7fra4dYD-1200-80.jpg",
+"publishedAt": "2023-11-30T04:00:24Z",
+"content": "With the end of 2023 fast approaching, Apple has today revealed the winners of its prestigious App Store Awards for this year, including its coveted iPhone App of the Year award. \r\n14 apps and games … [+2254 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+"title": "Monarch: Legacy of Monsters storms the charts as Apple TV Plus enters a new era",
+"description": "Apple TV Plus is in a purple patch right now with new shows taking the popularity charts by storm.",
+"url": "https://www.imore.com/music-movies-tv/apple-tv/monarch-legacy-of-monsters-storms-the-charts-as-apple-tv-plus-enters-a-new-era",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/AVJQ6tmGf8x6gF8PNYMgt8-1200-80.jpg",
+"publishedAt": "2023-11-30T12:11:35Z",
+"content": "The Apple TV Plus streaming service has been around for a few years at this point and it's been able to claim a few big wins in that time. Some of the streamer's shows have seen huge popularity, whil… [+3557 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+"title": "Apple's iPhone and Mac chip deal with Arm might be the bargain of the century",
+"description": "Apple pays less than you might expect for the technology behind those fast A17 Pro and M3 chips.",
+"url": "https://www.imore.com/iphone/apples-iphone-and-mac-chip-deal-with-arm-might-be-the-bargain-of-the-century",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/HNeDrRQo5cXEziNHR4MNYd-1200-80.jpeg",
+"publishedAt": "2023-11-30T11:23:20Z",
+"content": "Devices like the iPhone 15 and MacBook Air use Apple-designed chips, built by TSMC, and they're fast. Very fast, especially for mobile chips that are designed to be performant while still sipping at … [+3642 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "gerald.lynch@futurenet.com (Gerald Lynch)",
+"title": "GTA Trilogy: Definitive Edition coming to iPhone via Netflix just in time for Christmas",
+"description": "Netflix subscribers get free access to the classic open-world crime games.",
+"url": "https://www.imore.com/gaming/gta-trilogy-definitive-edition-coming-to-iphone-via-netflix-just-in-time-for-christmas",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/cDNirMrCS3BeWQM82YnRDL-1200-80.jpeg",
+"publishedAt": "2023-11-30T10:50:13Z",
+"content": "Games don't come more popular than the Grand Theft Auto series — and Netflix has just snapped up three of them for its blossoming gaming service, just in time for the holidays, bringing them to iPhon… [+2266 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "Stephen Warwick",
+"title": "Go f*** yourself,' Elon Musk tells the advertisers he says X can't live without",
+"description": "Elon Musk says that X will die if advertisers boycotting the platform don't come back, but all that they should \"go f*** themselves.\"",
+"url": "https://www.imore.com/apple/go-f-yourself-elon-musk-tells-the-advertisers-he-says-x-cant-live-without",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/m3QeW8JKxV7k55BoNeKXpW-1200-80.jpg",
+"publishedAt": "2023-11-30T11:33:52Z",
+"content": "In a strange and viral interview with Andrew Ross Sorkin at the NYT DealBook conference on Wednesday, Space X and Tesla mogul Elon Musk said that the advertising boycott currently plaguing X is going… [+2434 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techmeme.com"
+},
+"author": null,
+"title": "How Swedish battery maker Northvolt uses AI at its Skellefteå factory to help speed up EV battery making, led by former Apple AI researcher Siddharth Khullar (Rafaela Lindeberg/Bloomberg)",
+"description": "Rafaela Lindeberg / Bloomberg:\nHow Swedish battery maker Northvolt uses AI at its Skellefteå factory to help speed up EV battery making, led by former Apple AI researcher Siddharth Khullar  —  - Machine-learning experts implement AI in production, research  —…",
+"url": "https://www.techmeme.com/231130/p6",
+"urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbr1fqlIdew/v0/1200x802.png",
+"publishedAt": "2023-11-30T07:30:01Z",
+"content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 2:30 AM ET, November 30, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+71 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Tim Hardwick",
+"title": "Threads Is Coming to the EU in December",
+"description": "Meta intends to launch Threads in the European Union next month, according to a report by The Wall Street Journal. \n\n\n\n\n\nThe social media network debuted in most markets in July, but did not launch in the EU because Meta was unsure whether it would be able to…",
+"url": "https://www.macrumors.com/2023/11/30/threads-to-launch-eu-in-december/",
+"urlToImage": "https://images.macrumors.com/t/yw_78fO7YoaJL9ojy_Tcg-hvnB8=/1600x/article-new/2023/07/instagram-threads-app.jpg",
+"publishedAt": "2023-11-30T12:07:49Z",
+"content": "Meta intends to launch Threads in the European Union next month, according to a report by The Wall Street Journal. \r\nThe social media network debuted in most markets in July, but did not launch in th… [+1655 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Laura Sacristán",
+"title": "App Store Awards 2023: estas son las mejores aplicaciones y juegos del año para iPhone, iPad y Apple Watch",
+"description": "Ahora que se acerca el final del año, ha llegado el momento perfecto de elegir lo mejor que nos ha dejado este 2023. Del mismo modo que Google selecciona las mejores aplicaciones y juegos del año para Android, Apple hace lo propio con las de iOS.\n<!-- BREAK 1…",
+"url": "https://www.xatakamovil.com/aplicaciones/app-store-awards-2023-estas-mejores-aplicaciones-juegos-ano-para-iphone-ipad-apple-watch",
+"urlToImage": "https://i.blogs.es/e5e204/app-store-awards-2023-02/840_560.jpeg",
+"publishedAt": "2023-11-30T09:49:46Z",
+"content": "Ahora que se acerca el final del año, ha llegado el momento perfecto de elegir lo mejor que nos ha dejado este 2023. Del mismo modo que Google selecciona las mejores aplicaciones y juegos del año par… [+2277 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Eduardo Marín",
+"title": "iOS 17.2 revoluciona el iPhone en un aspecto nunca antes visto: permite cambiar el sonido de las alertas",
+"description": "Apple está a punto de implementar uno de los cambios más esperados por los usuarios de iPhone durante mucho tiempo. Y se trata de algo tan simple que parece increíble que haya tardado tanto en llegar, pero al mismo tiempo, agradecemos mucho que ya está aquí, …",
+"url": "https://www.xatakamovil.com/apple/ios-17-2-revoluciona-iphone-aspecto-nunca-antes-visto-permite-cambiar-sonido-alertas",
+"urlToImage": "https://i.blogs.es/370521/iphone-notificaciones/840_560.png",
+"publishedAt": "2023-11-30T00:00:18Z",
+"content": "Apple está a punto de implementar uno de los cambios más esperados por los usuarios de iPhone durante mucho tiempo. Y se trata de algo tan simple que parece increíble que haya tardado tanto en llegar… [+2302 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Laura Sacristán",
+"title": "TCM Now aterriza gratis en Orange TV con todo el contenido bajo demanda de TCM y mucho más",
+"description": "Aunque lleva desde el año pasado en otras plataformas como Movistar Plus+, Vodafone TV o Agile TV, es ahora cuando, por fin, Orange y TCM han anunciado la incorporación del servicio bajo demanda TCM Now a la oferta de entretenimiento de Orange TV.\n<!-- BREAK …",
+"url": "https://www.xatakamovil.com/orange/tcm-now-aterriza-gratis-orange-tv-todo-contenido-demanda-tcm-mucho",
+"urlToImage": "https://i.blogs.es/f10666/orange-tv-tcm-now/840_560.jpeg",
+"publishedAt": "2023-11-30T10:49:39Z",
+"content": "Aunque lleva desde el año pasado en otras plataformas como Movistar Plus+, Vodafone TV o Agile TV, es ahora cuando, por fin, Orange y TCM han anunciado la incorporación del servicio bajo demanda TCM … [+1583 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Rolling Stone"
+},
+"author": "Charisma Madarang",
+"title": "Right-Wingers Praise Elon for Torching His Relationship With Advertisers",
+"description": "Elon Musk told advertisers leaving Twitter to \"go f-ck yourself\" on Wednesday. His remarks have since gained cheers from right-wingers.",
+"url": "https://www.rollingstone.com/culture/culture-news/elon-musk-twitter-advertisers-right-wing-reactions-1234905677/",
+"urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/Elon-Musk-Twitter-Advertisers.jpg?w=1600&h=900&crop=1",
+"publishedAt": "2023-11-30T03:35:49Z",
+"content": "On Wednesday, Elon Musk retaliated against major advertisers leaving X (formerly Twitter) following his antisemitic remarks on the platform, and told them to “go fuck yourself” during The New York Ti… [+1802 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Playpcesor.com"
+},
+"author": "Esor Huang",
+"title": "Excalidraw 免費 AI 生成流程圖，一鍵畫出知識圖表、專案流程、寫作大綱",
+"description": "用一句話簡單提示主題，就能透過 AI 生成一幅流程圖。或是提供基本的想法大綱，一鍵請 AI 畫出可接續修改的流程圖草稿。於是「老師」可以快速生成教學用的 知識圖表 ，「軟體工程師」快速畫出 技術開發架構圖 、「管理者」獲得 專案流程圖 與 商業決策分析圖 、「行銷人員」製作 活...",
+"url": "https://www.playpcesor.com/2023/11/excalidraw-ai.html",
+"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiUqjhGDFpSs46K6vV1vyT7wJm2jraIbYcDQiW2fflH2IzmX1oT8X4F4VX4n_eQ0C4jG_dtNtESkdEPkhFEwroy24mYO0UgLd3oBsU_2SY4s5WEvfaTfFgEWJTAH6gTVbYpj3vdbLG_4Iu1RBVeeFivVTLCpu9QISbu3eFGSkc2qG45UNSOnZow3g=w1200-h630-p-k-no-nu",
+"publishedAt": "2023-11-30T02:31:00Z",
+"content": "用一句話簡單提示主題，就能透過 AI 生成一幅流程圖。或是提供基本的想法大綱，一鍵請 AI 畫出可接續修改的流程圖草稿。於是「老師」可以快速生成教學用的知識圖表，「軟體工程師」快速畫出技術開發架構圖、「管理者」獲得專案流程圖與商業決策分析圖、「行銷人員」製作活動企劃流程表、「創作者」也能立即獲得視覺化的寫作大綱或故事線草稿。上述的應用情境，在「 Excalidraw 」這款線上流程圖工具中已經可… [+3489 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "tagesschau.de"
+},
+"author": "tagesschau.de",
+"title": "\"Economist\": Zürich und Singapur sind teuerste Städte der Welt",
+"description": "2022 war noch New York die teuerste Stadt der Welt. In diesem Jahr wurde der \"Big Apple\" im Ranking des britischen Wirtschaftsmagazins \"Economist\" von Zürich und Singapur abgelöst. Russische Städte wurden günstiger.",
+"url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/teuerste-staedte-international-100.html",
+"urlToImage": "https://images.tagesschau.de/image/443a7520-a5b3-4452-b99a-6adaa07a92aa/AAABhpikUDk/AAABibBxqrQ/16x9-1280/blick-auf-zuerich-101.jpg",
+"publishedAt": "2023-11-30T11:57:01Z",
+"content": "Stand: 30.11.2023 12:57 Uhr\r\n2022 war noch New York die teuerste Stadt der Welt. In diesem Jahr wurde der \"Big Apple\" im Ranking des britischen Wirtschaftsmagazins \"Economist\" von Zürich und Singapur… [+2125 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "tagesschau.de"
+},
+"author": "Nils Dampz",
+"title": "Nach X-Boykott: Musk beschimpft abtrünnige Werbekunden",
+"description": "Mit der Unterstützung eines antisemitischen Posts auf seiner Plattform hat X-Eigentümer Musk viele Werbekunden vergrault. Doch statt den Schaden zu begrenzen, beschimpft Musk die Abtrünnigen nun. Von Nils Dampz.",
+"url": "https://www.tagesschau.de/wirtschaft/musk-x-werbekunden-100.html",
+"urlToImage": "https://images.tagesschau.de/image/1e0fcb28-c25d-4710-889f-50fb97b0bf46/AAABjB7Ybg4/AAABibBxqrQ/16x9-1280/elon-musk-172.jpg",
+"publishedAt": "2023-11-30T06:23:43Z",
+"content": "Stand: 30.11.2023 07:23 Uhr\r\nMit der Unterstützung eines antisemitischen Posts auf seiner Plattform hat X-Eigentümer Musk viele Werbekunden vergrault. Doch statt den Schaden zu begrenzen, beschimpft … [+1329 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "caschy",
+"title": "Das sind die Gewinner der Apple App Store Awards 2023",
+"description": "Apple hat aktuell die Gewinner der App Store Awards 2023 bekannt gegeben. Es sind 14 Apps und Spiele ausgezeichnet worden, so das Unternehmen. Vermutlich sind einige Apps euch bekannt, allerdings denke ich auch, dass einiges Neues dabei ist. Neben der...Zum B…",
+"url": "https://stadt-bremerhaven.de/das-sind-die-gewinner-der-apple-app-store-awards-2023/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/app-store_.jpg",
+"publishedAt": "2023-11-30T07:00:53Z",
+"content": "Apple hat aktuell die Gewinner der App Store Awards 2023 bekannt gegeben. Es sind 14 Apps und Spiele ausgezeichnet worden, so das Unternehmen. Vermutlich sind einige Apps euch bekannt, allerdings den… [+1704 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Olli",
+"title": "Apple TV+: Trailer zur Dokumentation „John Lennon: Murder Without A Trial“ ist da",
+"description": "Apple hatte vor einiger Zeit die Dokumentation „John Lennon: Murder Without A Trial“ angekündigt, die sich mit Berichten rund um die Ermordung des Beatles John Lennon beschäftigt. Kiefer Sutherland unterlegt die Bilder mit seiner Stimme. In insgesamt drei Tei…",
+"url": "https://stadt-bremerhaven.de/apple-tv-trailer-zur-dokumentation-john-lennon-murder-without-a-trial-ist-da/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/112723_Apple_TV_Debuts_Trailer_John_Lennon_Big_Image_01_big_image_post.jpg.medium_2x.jpg",
+"publishedAt": "2023-11-30T05:30:08Z",
+"content": "Apple hatte vor einiger Zeit die Dokumentation John Lennon: Murder Without A Trial angekündigt, die sich mit Berichten rund um die Ermordung des Beatles John Lennon beschäftigt. Kiefer Sutherland unt… [+961 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Olli",
+"title": "X: Elon Musk möchte sich nicht von großen Unternehmen erpressen lassen",
+"description": "Unter Elon Musk hat Twitter harte Wendungen durchgemacht. Die Plattform heißt nun X, hat etliche Mitarbeiter verloren und so weiter. In den vergangenen Wochen haben viele große Unternehmen die Werbung auf der Plattform gestoppt und damit den Geldeingang bei d…",
+"url": "https://stadt-bremerhaven.de/x-elon-musk-moechte-sich-nicht-von-grossen-unternehmen-erpressen-lassen/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/08/twitter-logo-x-2.jpg",
+"publishedAt": "2023-11-30T06:00:53Z",
+"content": "Unter Elon Musk hat Twitter harte Wendungen durchgemacht. Die Plattform heißt nun X, hat etliche Mitarbeiter verloren und so weiter. In den vergangenen Wochen haben viele große Unternehmen die Werbun… [+1978 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Nathan Le Gohlisse",
+"title": "Le OnePlus 12 va fixer un nouveau record, loin devant Samsung, Apple et Xiaomi",
+"description": "OnePlus continue de mettre en scène l'arrivée prochaine de son OnePlus 12 en vantant cette fois l'impressionnante luminosité de son écran, capable de surclasser aussi bien l'iPhone 15 Pro que le Galaxy S23 Ultra ou le Xiaomi Redmi K70 sur ce terrain.",
+"url": "https://www.frandroid.com/produits-android/hardware/affichage/1875895_le-oneplus-12-va-fixer-un-nouveau-record-loin-devant-samsung-apple-et-xiaomi",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/oneplus-12-a.jpeg",
+"publishedAt": "2023-11-30T11:09:25Z",
+"content": "OnePlus continue de mettre en scène l'arrivée prochaine de son OnePlus 12 en vantant cette fois l'impressionnante luminosité de son écran, capable de surclasser aussi bien l'iPhone 15 Pro que le Gala… [+2498 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Nathan Le Gohlisse",
+"title": "Xiaomi Redmi Book 2024 : Apple dans le viseur, Intel sous le capot et des prix très attractifs",
+"description": "Xiaomi a annoncé en Chine ses Redmi Book 16 et 14. L'un comme l'autre embarquent des écrans 120 Hz, mais seul le premier pourra compter sur des processeurs Intel de dernière génération pour s'attaquer au tout nouveau Huawei Matebook D16, dévoilé il y a quelqu…",
+"url": "https://www.frandroid.com/marques/xiaomi/1876043_xiaomi-redmi-book-2024-apple-dans-le-viseur-intel-sous-le-capot-et-des-prix-tres-attractifs",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/xiaomi-redmi-book-7-scaled.jpg",
+"publishedAt": "2023-11-30T11:25:33Z",
+"content": "Xiaomi a annoncé en Chine ses Redmi Book 16 et 14. L'un comme l'autre embarquent des écrans 120 Hz, mais seul le premier pourra compter sur des processeurs Intel de dernière génération pour s'attaque… [+3186 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Geoffroy Husson",
+"title": "Mise à jour des iPhone, capteurs de maison connectée Ikea et prix de la voiture électrique Huawei – Tech’spresso",
+"description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le mercredi 29 novembre : une mise à jour qui ajoute de la personnalité sur iPhone, de nouveaux capteurs connectées Ikea pour la maison et le prix d'une voiture électrique Huawei. …",
+"url": "https://www.frandroid.com/actualites-generales/1875693_mise-a-jour-des-iphone-capteurs-de-maison-connectee-ikea-et-prix-de-la-voiture-electrique-huawei-techspresso",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/ph-195381-3159720891.jpg",
+"publishedAt": "2023-11-30T06:00:19Z",
+"content": "Vous navez pas eu le temps de suivre lactualité hier? Voici ce qui a marqué le mercredi 29 novembre : une mise à jour qui ajoute de la personnalité sur iPhone, de nouveaux capteurs connectées Ikea po… [+1446 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ifanr.com"
+},
+"author": "张明悦",
+"title": "早报｜马云内网罕见发言，拼多多市值一度超越阿里/华为新合资公司估值或达 2500 亿/滴滴补偿无门槛打车券",
+"description": "·苹果将终止与高盛的信用卡合作\n·雷军个人向武汉大学捐赠 13 亿元\n·Redmi K70 系列手机发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+"url": "https://www.ifanr.com/1569352",
+"urlToImage": "https://s3.ifanr.com/images/ep/cover-images/jie_tou_xi_ha_ren_cover.jpg",
+"publishedAt": "2023-11-30T00:26:44Z",
+"content": "5G \r\n 5G \r\nNaver yeux1122 5G \r\nTech_Reve\r\n9 \r\nOpenAI \r\nThe Information OpenAI \r\nOpenAI 9 \r\n Bret Taylor Larry Summers Quora CEO Adam D’Angelo\r\n4% 1921 1878 \r\nAI \r\npdd \r\n11 28 688.4 93.9%\r\n 18% 11 28 … [+851 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "01net.com"
+},
+"author": "Gabriel Manceau",
+"title": "Voici les meilleurs jeux et applications de 2023 selon Apple et Google",
+"description": "Comme cela est la tradition, Apple et Google font leur bilan des applications et des jeux qui, selon eux, ont marqué l'année 2023. Une sélection qui permet parfois de (re)découvrir quelques pépites.",
+"url": "https://www.01net.com/actualites/voici-les-meilleurs-jeux-et-applications-de-2023-selon-apple-et-google.html",
+"urlToImage": "https://www.01net.com/app/uploads/2023/11/meilleurs-jeux-application-2023-Google-play.jpg",
+"publishedAt": "2023-11-30T10:00:51Z",
+"content": "Comme cela est la tradition, Apple et Google font leur bilan des applications et des jeux qui, selon eux, ont marqué l’année 2023. Une sélection qui permet parfois de (re)découvrir quelques pépites.A… [+3131 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GSMArena.com"
+},
+"author": "Kaloyan",
+"title": "Xiaomi 13T Pro vs. Xiaomi 13T",
+"description": "Co-engineered with Leica – that’s the highlight slogan of the Xiaomi 13T series, as the smartphones share identical cameras. The Xiaomi 13T and 13T Pro are also of similar size and with identical design, plus – they share identical displays and batteries.\n\nTh…",
+"url": "https://www.gsmarena.com/xiaomi_13t_pro_vs_xiaomi_13t_pro_review_battery_camera_price_compared-news-60735.php",
+"urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/11/xiaomi-13t-vs-13t-pro/-952x498w6/gsmarena_001.jpg",
+"publishedAt": "2023-11-30T07:27:02Z",
+"content": "Co-engineered with Leica thats the highlight slogan of the Xiaomi 13T series, as the smartphones share identical cameras. The Xiaomi 13T and 13T Pro are also of similar size and with identical design… [+13059 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Phys.Org"
+},
+"author": "Ian James, Los Angeles Times",
+"title": "A California dry farmer's juicy apples show how agriculture can be done with less water",
+"description": "Leaves rustled as Mike Cirone reached into a tree and gently picked an apple. The orchard was filled with a profusion of ripe fruit in shades from golden-green to pinkish red.",
+"url": "https://phys.org/news/2023-11-california-dry-farmer-juicy-apples.html",
+"urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/apples-1.jpg",
+"publishedAt": "2023-11-30T12:20:01Z",
+"content": "Leaves rustled as Mike Cirone reached into a tree and gently picked an apple. The orchard was filled with a profusion of ripe fruit in shades from golden-green to pinkish red.\r\nBut unlike other crops… [+11440 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PCWorld"
+},
+"author": "DealPost Team",
+"title": "Safer driving starts with $75 off this heads-up display",
+"description": "Most cars these days have standard displays that help you navigate more safely, manage your music, and give you a backup camera to assist with parking. If you’re driving an older car, however, don’t worry! You can bring it into the modern age of displays with…",
+"url": "https://www.pcworld.com/article/2158306/2158306.html",
+"urlToImage": "https://www.pcworld.com/wp-content/uploads/2023/11/PCWorld-1022-Touchscreen-WirelessWi-FiBluetooth-Car-Display-with-Apple-CarPlay-Android-Auto-Support.jpeg?quality=50&strip=all&w=1024",
+"publishedAt": "2023-11-30T08:00:00Z",
+"content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nMost cars these days… [+1048 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacStories"
+},
+"author": "Federico Viticci",
+"title": "Workflow Co-Founders Want to Bring AI to the Desktop",
+"description": "When I read earlier this year that Ari Weinstein, one of the co-founders of Workflow before it was acquired by Apple, had left the company, I had a feeling he’d team up soon enough with Conrad Kramer, another Workflow co-founder. I was right. Alex Heath, writ…",
+"url": "https://www.macstories.net/linked/workflow-co-founders-want-to-bring-ai-to-the-desktop/",
+"urlToImage": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+"publishedAt": "2023-11-30T00:11:51Z",
+"content": "When I read earlier this year that Ari Weinstein, one of the co-founders of Workflow before it was acquired by Apple, had left the company, I had a feeling he’d team up soon enough with Conrad Kramer… [+2076 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacStories"
+},
+"author": "Federico Viticci",
+"title": "Improving the Copy and Paste Prompts on iOS",
+"description": "I couldn’t agree more with all the suggestions proposed by Matt Birchler, who envisions a more flexible permission flow for clipboard access on iOS that is entirely in line with Apple’s current privacy prompts for other personal data. Apple could even hide th…",
+"url": "https://www.macstories.net/linked/improving-the-copy-and-paste-prompts-on-ios/",
+"urlToImage": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+"publishedAt": "2023-11-30T01:09:11Z",
+"content": "I couldn’t agree more with all the suggestions proposed by Matt Birchler, who envisions a more flexible permission flow for clipboard access on iOS that is entirely in line with Apple’s current priva… [+1851 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Alessandro Nodari",
+"title": "Apple annuncia i vincitori dell'App Store Award: Honkai: Star Rail per i giochi e un'app bellissima per i makeup artist",
+"description": "Come ogni anno in questo periodo, Apple ha annunciato i vincitori dell'App Store Award, premiando le migliori app e giochi...\r\nL'articolo Apple annuncia i vincitori dell'App Store Award: Honkai: Star Rail per i giochi e un'app bellissima per i makeup artist s…",
+"url": "https://www.smartworld.it/news/apple-vincitori-app-store-award-2023.html",
+"urlToImage": "https://www.smartworld.it/images/2022/04/27/q1-2022-app-store-tiktok_1200x675.jpeg",
+"publishedAt": "2023-11-30T08:09:00Z",
+"content": "Come ogni anno in questo periodo, Apple ha annunciato i vincitori dell'App Store Award, premiando le migliori app e giochi per iPhone, iPad, Mac, Apple Watch e Apple TV, con l'aggiunta della categori… [+2280 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Alessandro Nodari",
+"title": "La webcam del vostro PC fa schifo? Microsoft ha una soluzione in mente",
+"description": "L'anno scorso, con iOS 16 e macOS Ventura, Apple ha lanciato la possibilità di utilizzare iPhone come webcam, il che...\r\nL'articolo La webcam del vostro PC fa schifo? Microsoft ha una soluzione in mente sembra essere il primo su Smartworld.",
+"url": "https://www.smartworld.it/news/collegamento-telefono-usare-android-webcam.html",
+"urlToImage": "https://www.smartworld.it/images/2023/11/30/iphone-webcam-mac_1200x675.jpg",
+"publishedAt": "2023-11-30T10:19:00Z",
+"content": "L'anno scorso, con iOS 16 e macOS Ventura, Apple ha lanciato la possibilità di utilizzare iPhone come webcam, il che ha causato una certa invidia tra gli utenti Windows.\r\nL'app Collegamento al telefo… [+3560 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Vincenzo Ronca",
+"title": "Pronti per rivivere il vostro 2023 musicale? Arriva quello di YouTube Music",
+"description": "Siamo quasi entrati nell'ultimo mese di questo 2023, e quindi ci avviamo alla conclusione dell'anno. E allora arrivano le feste,...\r\nL'articolo Pronti per rivivere il vostro 2023 musicale? Arriva quello di YouTube Music sembra essere il primo su Smartworld.",
+"url": "https://www.smartworld.it/news/youtube-music-recap-2023.html",
+"urlToImage": "https://www.smartworld.it/images/2023/07/24/come-funziona-youtube-music-6_1200x675.jpg",
+"publishedAt": "2023-11-30T09:53:00Z",
+"content": "Siamo quasi entrati nell'ultimo mese di questo 2023, e quindi ci avviamo alla conclusione dell'anno. E allora arrivano le feste, le tavole imbandite e gli immancabili recap, replay e wrapped dai vari… [+1461 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Alessandro Nodari",
+"title": "Come personalizzare Android 14",
+"description": "Come personalizzare Android 14: schermata di blocco, sfondi, notifiche, suoni, font, icone e temi.\r\nL'articolo Come personalizzare Android 14 sembra essere il primo su Smartworld.",
+"url": "https://www.smartworld.it/guide/come-personalizzare-android-14.html",
+"urlToImage": "https://www.smartworld.it/images/2023/11/30/come-personalizzare-android-14_1200x675.jpg",
+"publishedAt": "2023-11-30T11:55:00Z",
+"content": "Android è sempre stato il sistema operativo per eccellenza per gli amanti della personalizzazione, ma con Android 14 Google ha voluto effettuare un passo in avanti, introducendo una serie di novità p… [+15638 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Der-postillon.com"
+},
+"author": "Der Postillon",
+"title": "Musk präsentiert komplett neues Werbemodell: \"Zahlen Sie oder wir schalten Anzeigen für Ihr Unternehmen auf X\"",
+"description": "San Francisco (dpo) - Nachdem Twitter (von einigen auch X genannt) zuletzt immer mehr prominente Werbekunden verlor, kündigte Eigentümer Elon Musk nun ein völlig neues Werbemodell an, das große Marken dazu bewegen soll, wieder Geld an Twitter zu überweisen.\nm…",
+"url": "https://www.der-postillon.com/2023/11/musk-werbekunden.html",
+"urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBsy9xR_TIG0Lpf3pDNbpwKM4hQKIdD0dRgK17vrLbQpgvw46YZi3mdkfOtjLgsS1stbnCodk-QStiV46EmbbxomjcndjtbClKbUGGuRnci6pYF6lDpnZt4FwEfjesdnzxxXDgrbIX4hy-MXvQEr9kLI0VXRaLf5IiNQtU69S4rLEw6gZZJvXqwvIY5KE/w1600/Musk-Werbung.jpg",
+"publishedAt": "2023-11-30T11:56:50Z",
+"content": "San Francisco (dpo) - Nachdem Twitter (von einigen auch X genannt) zuletzt immer mehr prominente Werbekunden verlor, kündigte Eigentümer Elon Musk nun ein völlig neues Werbemodell an, das große Marke… [+1153 chars]"
+},
+{
+"source": {
+"id": "el-mundo",
+"name": "El Mundo"
+},
+"author": "EFE",
+"title": "Musk, a los anunciantes que siguen abandonando X (Twitter): \"Que se jodan\"",
+"description": "El empresario admitió que si las grandes empresas continúan con su boicot, X podría desaparecer, pero confió en que \"el mundo entero sabrá que esos anunciantes mataron a la compañía\". \"A ver cómo responde la Tierra a eso\". Leer",
+"url": "https://www.elmundo.es/tecnologia/2023/11/30/6567d48fe85eced13a8b45d0.html",
+"urlToImage": "https://phantom-elmundo.unidadeditorial.es/a8894a6dcf64ff816d8e2215fc397b3a/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/30/17013036117126.jpg",
+"publishedAt": "2023-11-30T00:22:36Z",
+"content": "El magnate Elon Musk, propietario de la red social X (antes Twitter), admitió este miércoles en un foro en Nueva York que si los grandes anunciantes continúan abandonando la plataforma \"matarán a la … [+905 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digiday"
+},
+"author": "Cloey Callahan",
+"title": "Goodbye LinkedIn, Hello TikTok: The Return podcast, season 2, episode 6",
+"description": "WorkTok, or CareerTok, is in full force. Combined, those hashtags on TikTok have over four billion views and it is benefiting Gen Z.",
+"url": "http://digiday.com/marketing/goodbye-linkedin-hello-tiktok-the-return-podcast-season-2-episode-6/",
+"urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/10/the-returnWL-copy.jpg",
+"publishedAt": "2023-11-30T05:01:00Z",
+"content": "This article is part of a special podcast series that covers the challenges and opportunities of returning to the office. More from the series →WorkTok, or CareerTok, is in full force. Combined, thos… [+2278 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Marketingdirecto.com"
+},
+"author": "Esther Lastra",
+"title": "«Go fuck yourself»: Elon Musk estalla contra los anunciantes y les acusa de «matar» X",
+"description": "\"Go fuck yourself\", ha espetado Elon Musk a los anunciantes que han dado portazo en los últimos días a la red social otrora conocida como Twitter.\nLa entrada «Go fuck yourself»: Elon Musk estalla contra los anunciantes y les acusa de «matar» X se publicó prim…",
+"url": "https://www.marketingdirecto.com/digital-general/social-media-marketing/elon-musk-estalla-anunciantes-acusa-matar-x",
+"urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2023/11/elon-musk-x-4.jpg",
+"publishedAt": "2023-11-30T08:54:18Z",
+"content": "\"Go fuck yourself\", ha espetado Elon Musk a los anunciantes que han dado portazo en los últimos días a la red social otrora conocida como Twitter.Los anunciantes están huyendo están estampida de X (a… [+3737 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Fran Besora",
+"title": "Apple anuncia los ganadores de los App Store Awards 2023: estas son las mejores apps y juegos del año",
+"description": "Vamos a contarte los ganadores de los App Store Awards 2023, de forma que puedas conocer cuáles son las mejores apps y juegos del año del App Store. Un reconocimiento que llega unos días después de que la compañía anunciara los finalistas a mejor app y juego …",
+"url": "https://www.lavanguardia.com/andro4all/apple/ganadores-app-store-awards-2023",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/apple-store-awards-202.jpg.large_.jpg?width=1200",
+"publishedAt": "2023-11-30T07:54:39Z",
+"content": "Ganadores de los App Store Awards 2023\r\nVamos a contarte los ganadores de los App Store Awards 2023, de forma que puedas conocer cuáles son las mejores apps y juegos del año del App Store. Un reconoc… [+1871 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Fran Besora",
+"title": "Apple habría cancelado sus planes de crear su propio módem 5G",
+"description": "Tras retrasar la llegada de sus propios módems 5G en el iPhone al año 2026, Apple tiene planes de cancelar los planes de lanzar algo así tras varios intentos fallidos de forma definitiva. Llevan varios años con ello, pero parece que los esfuerzos dedicados, n…",
+"url": "https://www.lavanguardia.com/andro4all/apple/apple-planes-modems-5g-cancelados",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/apple-habria-cancelado-planes-modems-5g.jpg?width=1200",
+"publishedAt": "2023-11-30T09:12:33Z",
+"content": "Los planes de desarrollar un módem 5G propio habrían sido cancelados\r\nTras retrasar la llegada de sus propios módems 5G en el iPhone al año 2026, Apple tiene planes de cancelar los planes de lanzar a… [+2029 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Mario Seijas",
+"title": "Tres juegos de Grand Theft Auto Trilogy estarán disponibles en Netflix el próximo mes",
+"description": "Grand Theft Auto: The Trilogy - The Definitive Edition estará disponible oficialmente para los miembros de Netflix sin coste adicional en la App Store de Apple, la tienda de Google Play y en la aplicación móvil de Netflix el 14 de diciembre de 2023.Aquellos q…",
+"url": "https://www.lavanguardia.com/andro4all/juegos/tres-juegos-de-grand-theft-auto-trilogy-estaran-disponibles-en-netflix-el-proximo-mes-ign",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/gta.jpg?width=1200",
+"publishedAt": "2023-11-30T12:00:42Z",
+"content": "Grand Theft Auto: The Trilogy - The Definitive Edition estará disponible oficialmente para los miembros de Netflix sin coste adicional en la App Store de Apple, la tienda de Google Play y en la aplic… [+1323 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Pablo Hernando Illán",
+"title": "La tecnología Bluetooth tiene un grave fallo de seguridad desde 2014: hay millones de dispositivos afectados",
+"description": "Los dispositivos con Bluetooth posteriores a 2014 tienen una vulnerabilidad que los hace hackeables. El problema radica en su arquitectura, no en su hardware o software, lo implica que el problema es común en millones de dispositivos, sin importar su marca o …",
+"url": "https://www.lavanguardia.com/andro4all/tecnologia/la-tecnologia-bluetooth-tiene-un-grave-fallo-de-seguridad-desde-2014-hay-millones-de-dispositivos-afectados",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/la-tecnologia-bluetooth-tiene-un-grave-fallo-de-seguridad-desde-2014-hay-millones-de-dispositivos-afectados.jpg?width=1200",
+"publishedAt": "2023-11-30T11:38:51Z",
+"content": "Si tienes un dispositivo Bluetooth posterior a 2014, este problema le afecta\r\nLos dispositivos con Bluetooth posteriores a 2014 tienen una vulnerabilidad que los hace hackeables. El problema radica e… [+2332 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Impress.co.jp"
+},
+"author": null,
+"title": "2023年のApp Store Awardsが発表、「崩壊：スターレイル」など14のアプリとゲームが受賞",
+"description": "アップル（Apple）は30日、同社のアプリストア「App Store」の2023年年間アワード「App Store Awards」を発表した。今年のベストiPhoheアプリは、トレイルガイドやハイキングなどアウトドアレジャーをサポートする「AllTrails」が受賞したほか、iPadやMac、Apple TV、Apple Watchで提供されている14のアプリが受賞した。",
+"url": "https://k-tai.watch.impress.co.jp/docs/news/1550814.html",
+"urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1550/814/cont0.jpg",
+"publishedAt": "2023-11-30T04:00:00Z",
+"content": "2023iPhoneAllTrailsiPadPrêt-à-MakeupMacPhotomatorApple TVUBIApple WatchSmartGym \r\n iPhoneiPadLost in PlayMacLies of PApple ArcadeHello Kitty Island Adventure \r\n 5Pok PokProloquoToo Good To GoUnpackin… [+14 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Impress.co.jp"
+},
+"author": null,
+"title": "Apple銀座がオープン20周年。今後はどうなるのか？",
+"description": "東京・銀座に、Apple直営店であるApple銀座が、2003年11月30日にオープンしてから、20周年の節目を迎えた。",
+"url": "https://pc.watch.impress.co.jp/docs/news/1550948.html",
+"urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1550/948/097.jpg",
+"publishedAt": "2023-11-30T04:21:16Z",
+"content": "AppleApple2003113020 \r\n Apple AppleAppleApple Store202025 \r\n Apple StoreAppleApple \r\n Apple382025 \r\n Apple20031130Apple Store73 \r\n 1127CEOAppleAppleApple Store \r\n 100 \r\n 202312Apple1Apple100%Apple100… [+138 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tomshw.it"
+},
+"author": "Luca Zaninello",
+"title": "Bambino di 10 anni sfida Apple, petizione per cambiare una emoji",
+"description": "Teddy, 10 anni, fan sfegatato di Apple e proveniente dal Regno Unito, si è imbarcato in una missione per rinnovare la famigerata emoji con gli occhiali \"da nerd\". Il problema di Teddy con l'emo...",
+"url": "https://www.tomshw.it/smartphone/bambino-di-10-anni-sfida-apple-petizione-per-cambiare-una-emoji",
+"urlToImage": "https://www.tomshw.it/storage/media/2023/11/6375/_131836546_teddy3-jpg.webp",
+"publishedAt": "2023-11-30T08:58:16Z",
+"content": "Teddy, 10 anni, fan sfegatato di Apple e proveniente dal Regno Unito, si è imbarcato in una missione per rinnovare la famigerata emoji con gli occhiali\"da nerd\". Il problema di Teddy con l'emoji esis… [+1884 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tomshw.it"
+},
+"author": "Luca Rocchi",
+"title": "Dacia Duster si aggiorna, ora ibrida o GPL a partire da 20mila euro",
+"description": "La prossima generazione del crossover compatto Dacia Duster sarà disponibile per l'ordine a partire dall'inizio del 2024, con le prime consegne previste in primavera. I prezzi, leggermente supe...",
+"url": "https://www.tomshw.it/automotive/dacia-duster-si-aggiorna-ora-ibrida-o-gpl-a-partire-da-20mila-euro",
+"urlToImage": "https://www.tomshw.it/storage/media/2023/11/6388/Nuovo_Dacia_Duster.jpg",
+"publishedAt": "2023-11-30T09:23:56Z",
+"content": "La prossima generazione del crossover compatto Dacia Duster sarà disponibile per l'ordine a partire dall'inizio del 2024, con le prime consegne previste in primavera. I prezzi, leggermente superiori … [+2872 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tomshw.it"
+},
+"author": "Luca Zaninello",
+"title": "Provo smartphone da oltre 10 anni, ecco quelli che comprerei per Natale",
+"description": "Era il lontano 2012 quando ho iniziato a fare questo lavoro e di smartphone ne sono passati davvero tanti sulla mia scrivania. Ne ho provati di tutti i tipi, dai classici ai pieghevoli, passando per t...",
+"url": "https://www.tomshw.it/smartphone/migliori-smartphone-natale",
+"urlToImage": "https://www.tomshw.it/storage/media/2023/11/6421/smartphone-natale.jpg",
+"publishedAt": "2023-11-30T11:40:45Z",
+"content": "Era il lontano 2012 quando ho iniziato a fare questo lavoro e di smartphone ne sono passati davvero tanti sulla mia scrivania. Ne ho provati di tutti i tipi, dai classici ai pieghevoli, passando per … [+11056 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Appbank.net"
+},
+"author": "岩佐",
+"title": "ディズニーがXから消える…イーロン・マスクの「失言」が招いた危機的状況",
+"description": "現在、X（旧Twitter）から100以上のブランドが広告出稿を中止していると、米紙「NewYork Times」が報じています。 *Category:テクノロジー Technology *Source：NewYork […]",
+"url": "https://www.appbank.net/2023/11/30/technology/2706406.php",
+"urlToImage": "https://www.appbank.net/wp-content/uploads/2023/11/2023-1129-X-thumb-1.jpeg",
+"publishedAt": "2023-11-30T03:08:26Z",
+"content": "XTwitter100NewYork Times\r\n*Category:\r\n Technology *SourceNewYork Times ,9to5Mac ,Media Matter ,CNN\r\nX\r\nMedia Matters1116Apple\r\nAs X owner Elon Musk continues his descent into white nationalist and an… [+972 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"author": "Tech Desk",
+"title": "App Store Award 2023 winners: Honkai Star Rail named iPhone game of the year",
+"description": "Apple highlights that \"generative AI captured users’ collective imagination\" in 2023.",
+"url": "https://indianexpress.com/article/technology/tech-news-technology/app-store-award-2023-best-iphone-ipad-mac-apps-games-9048250/",
+"urlToImage": "https://images.indianexpress.com/2023/11/apple-app-store-award-winners-2023.jpg",
+"publishedAt": "2023-11-30T06:10:04Z",
+"content": "Apple says that in 2023 “generative AI captured users collective imagination with its evolution unfolding in real-time, and generative AI captured users collective imagination with its evolution unfo… [+3782 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nextpit.de"
+},
+"author": "Jade Bryan",
+"title": "Apple iPhone SE 4 ohne hauseigenes 5G-Modem?",
+"description": "Apple soll Gerüchten zufolge im preisgünstigen iPhone SE 4 auf sein hauseigenes 5G-Modem verzichten und stattdessen auf einen Snapdragon-Funkchip setzen.",
+"url": "https://www.nextpit.de/apple-iphone-se-4-ohne-hauseigenes-5g-modem",
+"urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/iPhone_15_Plus/nextpit_iPhone_15_Plus_Back.jpg",
+"publishedAt": "2023-11-30T06:00:00Z",
+"content": "Die ersten Informationen zu diesem Thema stammen von einem namhaften Leaker, der die Details auf der südkoreanischen Plattform Naver veröffentlicht hat. Der Nutzer \"yeux1122\" zitierte Apple-Zuliefere… [+2035 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nextpit.de"
+},
+"author": "Matthias \"MaTT\" Zellmer",
+"title": "4.500 Nits: Das OnePlus 12 wird das hellste Smartphone am Markt!",
+"description": "In wenigen Tagen wird das OnePlus 12 offiziell präsentiert. Bereits im Vorfeld hat man nun die maximale Helligkeit von 4.500 Nits verraten!",
+"url": "https://www.nextpit.de/4-500-nits-das-oneplus-12-wird-das-hellste-smartphone-am-markt",
+"urlToImage": "https://fscl01.fonpit.de/userfiles/7734655/image/OnePlus-12-colors-white-green-marble.jpg",
+"publishedAt": "2023-11-30T11:00:01Z",
+"content": "In Zeiten von höher, schneller und weiter, wird es immer schwieriger sich von der Allgemeinheit abzusetzen. Im Fall des am 5. Dezember zu präsentierenden OnePlus 12 hat man sich nun wohl für das hell… [+2047 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Laurin Meyer, Philipp Vetter",
+"title": "Investieren auf der Insel und ein teurer Mode-Billigheimer",
+"description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Laurin Meyer und Philipp Vetter über besänftigte Anleger bei General Motors, den Weihnachts-Optimismus bei Foot Locker und einen Feueralarm bei Philips.",
+"url": "https://www.welt.de/podcasts/alles-auf-aktien/article248799500/Boersen-Podcast-Shein-Das-steckt-hinter-dem-Mode-Billigheimer.html",
+"urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546282/1261351807-ci16x9-w1200/meyer-vetter-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-meyer-vetter-aw.jpg",
+"publishedAt": "2023-11-30T04:04:22Z",
+"content": "Außerdem geht es um Adidas, Puma, SAP, Stellantis, Shein, Zalando, Asos, Shell, Astrazeneca, HSBC, Unilever und BP, iShares MSCI UK (WKN: A0YEDT), Amundi ETF MSCI UK (WKN: A0REJR), Xtrackers MSCI UK … [+358 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Antonia Beckermann",
+"title": "Der Weltklimagipfel steht vor zwei Überraschungen",
+"description": "In Dubai startet die Weltklimakonferenz. Hier soll die Welt klären, wie sie die Erderwärmung bremsen kann. Die Streitpunkte sind klar, die Forderungen hoch, die Kritik laut. Kann der Mammutgipfel den hohen Erwartungen gerecht werden? Und welche Rolle spielt D…",
+"url": "https://www.welt.de/podcasts/article248784566/Der-Weltklimagipfel-steht-vor-zwei-Ueberraschungen-Podcast.html",
+"urlToImage": "https://img.welt.de/img/podcasts/mobile248615600/5501358637-ci16x9-w1200/DWO-Podcast-Teaser-Das-bringt-der-Tag-cg.jpg",
+"publishedAt": "2023-11-30T04:03:33Z",
+"content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Sabine Winkler",
+"title": "In diese Städte reist die Generation Z am liebsten",
+"description": "Wer jung ist, will viel erleben. Doch der Geldbeutel ist oft schmal und die Prioritäten sind klar gesetzt. Hier kommen die Top Ten der angesagtesten Städte unter der Generation Z.",
+"url": "https://www.welt.de/kmpkt/article248784408/Das-sind-die-beliebtesten-Reiseziele-der-Generation-Z.html",
+"urlToImage": "https://img.welt.de/img/bildergalerien/mobile248784240/8841357077-ci16x9-w1200/Girl-Tuk-Tuk.jpg",
+"publishedAt": "2023-11-30T06:13:38Z",
+"content": "Der Generation Z wird vieles nachgesagt: Sie seien unentschieden, faul oder hängen nur auf Social Media ab. Soweit die Klischees die Wahrheit ist wie immer komplexer. Das zeigt sich auch beim Thema R… [+5828 chars]"
+}
+]
